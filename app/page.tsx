@@ -1,3 +1,4 @@
+"use client";
 import { Abril_Fatface, Plus_Jakarta_Sans, Caveat } from "next/font/google";
 import content from "../data/content.json";
 
