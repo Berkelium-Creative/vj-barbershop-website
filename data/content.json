@@ -1,47 +1,134 @@
 {
-  "businessName": "Sample Business",
-  "tagline": "Quality Service You Can Trust",
+  "businessName": "VJ Barbershop",
+  "tagline": "Family-run barbershop on Kenilworth Avenue.",
   "hero": {
-    "heading": "Welcome to Our Business",
-    "subheading": "Professional service in your area.",
-    "ctaText": "Contact Us",
-    "ctaLink": "#contact"
+    "eyebrow": "GLENDALE · KENILWORTH · OPEN 7 DAYS",
+    "heading": "The neighborhood barbershop, open every day.",
+    "subheading": "A family-run barbershop one block off Glendale Boulevard. Cuts, beards, line-ups, and the kind of conversation regulars come back for. Open eight to seven, seven days a week.",
+    "ctaText": "Reserve a chair",
+    "ctaLink": "tel:8182441113",
+    "image": "https://images.unsplash.com/photo-1503951914875-452162b0f3f1?w=1800&q=80&auto=format&fit=crop"
   },
   "about": {
-    "heading": "About Us",
+    "label": "The shop",
+    "heading": "Two chairs. Two barbers. Twenty years.",
     "paragraphs": [
-      "We are a local business dedicated to providing quality service.",
-      "Our team has years of experience and we take pride in our work."
+      "VJ Barbershop has been on Kenilworth Avenue since 2005. Two chairs, two barbers, twenty years of regulars walking through the same door.",
+      "We do classic cuts, scissor-over-comb, skin fades, beard work, and full programs. No appointments required — call ahead if you want to skip the wait or just walk in and pull up a chair.",
+      "Open eight to seven every day of the week. Cash or card, same price. The neighbors bring their kids, and now their kids bring their kids."
     ]
   },
   "services": [
-    { "title": "Service One", "description": "Professional service with attention to detail.", "icon": "star" },
-    { "title": "Service Two", "description": "Quality work at competitive prices.", "icon": "award" },
-    { "title": "Service Three", "description": "Fast, reliable, and thorough.", "icon": "check" }
+    {
+      "title": "Men's Cut",
+      "description": "Scissor, clipper, or both. Your length, your finish. Hot-towel neck shave included. Thirty minutes.",
+      "price": "$25"
+    },
+    {
+      "title": "Skin Fade",
+      "description": "Bald fade blended through the top with a straight-razor edge-up. Thirty-five minutes.",
+      "price": "$30"
+    },
+    {
+      "title": "Cut + Beard",
+      "description": "Full classic cut plus straight-razor beard work and hot-towel finish. Forty-five minutes.",
+      "price": "$40"
+    },
+    {
+      "title": "Kids' Cut · 12 & Under",
+      "description": "Same care, smaller chair, ten dollars off. Pop in any time during shop hours.",
+      "price": "$18"
+    },
+    {
+      "title": "Senior Rate · 65 +",
+      "description": "Standing senior rate any chair, any day. ID gets the price, no fuss.",
+      "price": "$20"
+    },
+    {
+      "title": "Buzz & Line-up",
+      "description": "All-over single-guard buzz with a straight-razor edge-up. In and out in fifteen.",
+      "price": "$18"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "Aram K.",
+      "rating": 5,
+      "context": "Fifteen-year regular",
+      "text": "Same barber, same chair, every other Saturday for fifteen years. VJ is the kind of shop that doesn't exist much anymore — open early, open late, real prices, real work."
+    },
+    {
+      "name": "Henrik G.",
+      "rating": 4,
+      "context": "Walk-in Tuesday",
+      "text": "Walked in cold on a Tuesday afternoon and was out the door in twenty-five minutes with the cleanest fade I've had in Glendale. Now it's the only place I go."
+    },
+    {
+      "name": "Maria S.",
+      "rating": 5,
+      "context": "Bringing both sons",
+      "text": "Bringing my two boys here was the cleanest fifteen minutes of my week. They handed each a candy bar, made them laugh, and gave them real cuts. Family shop."
+    }
   ],
   "contact": {
-    "address": "123 Main St, City, ST 12345",
-    "phone": "(555) 123-4567",
-    "email": "info@sample.com",
+    "phone": "(818) 244-1113",
+    "email": "hello@vjbarbershopglendale.com",
+    "address": "1015 N Kenilworth Ave, Glendale, CA 91202",
+    "mapEmbedQuery": "VJ Barbershop, 1015 N Kenilworth Ave, Glendale, CA 91202",
     "hours": {
-      "Monday": "9:00 AM - 5:00 PM",
-      "Tuesday": "9:00 AM - 5:00 PM",
-      "Wednesday": "9:00 AM - 5:00 PM",
-      "Thursday": "9:00 AM - 5:00 PM",
-      "Friday": "9:00 AM - 5:00 PM",
-      "Saturday": "10:00 AM - 3:00 PM",
-      "Sunday": "Closed"
-    },
-    "mapEmbedQuery": "123+Main+St+City+ST"
+      "Monday": "8:00 AM – 7:00 PM",
+      "Tuesday": "8:00 AM – 7:00 PM",
+      "Wednesday": "8:00 AM – 7:00 PM",
+      "Thursday": "8:00 AM – 7:00 PM",
+      "Friday": "8:00 AM – 7:00 PM",
+      "Saturday": "8:00 AM – 7:00 PM",
+      "Sunday": "8:00 AM – 7:00 PM"
+    }
   },
+  "social": {},
   "seo": {
-    "title": "Sample Business | City, ST",
-    "description": "Sample Business in City, ST. Professional services you can trust.",
-    "keywords": ["sample business", "city ST", "professional services"]
+    "title": "VJ Barbershop — Family-run barber on Kenilworth, Glendale",
+    "description": "Two-chair family barbershop on Kenilworth Ave in Glendale. Cuts, fades, beard work, kids and senior rates. Open eight to seven, seven days.",
+    "keywords": [
+      "Glendale barbershop",
+      "Kenilworth Ave barber",
+      "open Sunday barbershop Glendale",
+      "family barbershop"
+    ]
   },
   "theme": {
-    "primaryColor": "#0a0a0a",
-    "accentColor": "#c8a97e",
-    "fontFamily": "modern"
+    "primaryColor": "#134E4A",
+    "accentColor": "#F87171",
+    "fontFamily": "abrilfatface-plusjakartasans-caveat"
+  },
+  "designSystem": {
+    "searchQuery": "Mediterranean editorial vintage barber petrol teal coral sand riviera",
+    "styleName": "Mediterranean Editorial Vintage (riviera barber)",
+    "pattern": "Hero + Features + CTA · split with arched photo",
+    "palette": {
+      "primary": "#134E4A",
+      "secondary": "#042F2E",
+      "cta": "#F87171",
+      "accent": "#F87171",
+      "background": "#FDFCEC",
+      "text": "#1C1917",
+      "muted": "#57534E",
+      "border": "#134E4A",
+      "surface": "#FDFCEC"
+    },
+    "typography": {
+      "heading": "Abril Fatface",
+      "body": "Plus Jakarta Sans",
+      "label": "Caveat",
+      "mood": "Mediterranean coastal editorial, riviera, vintage Italian barber, romantic curves"
+    },
+    "moves": [
+      "Abril Fatface curvy editorial display — riviera elegance",
+      "Petrol teal + coral palette — Mediterranean coastal, no greys",
+      "Arched 280px photo frame in hero — first arched-hero in the build",
+      "Coral 4.4★ rating circle floating off photo corner",
+      "Coral CTA section — first coral-primary visit block",
+      "Caveat handwritten 'walk-ins welcome' overlays"
+    ]
   }
 }
